@@ -4,7 +4,7 @@
 
 This simple C program determines the C standard version supported by your compiler. This information can be helpful for ensuring code compatibility across different compiler environments.
 
-**License:**
+**License:** 
 
 The Unlicense
 
